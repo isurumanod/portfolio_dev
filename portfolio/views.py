@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 
 from portfolio.models import *
-from .forms import *
+from .forms import ContactForm,ProjectForm
 
 
 # Create your views here.
